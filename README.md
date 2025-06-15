@@ -1,4 +1,3 @@
-# missing-value-imputation
 # Missing Value Imputation
 
 ## 📘 Project Overview
